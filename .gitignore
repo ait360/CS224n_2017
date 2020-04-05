@@ -1,0 +1,17 @@
+Assignment1/*.npy
+
+
+Assignment1/utils/datasets/
+
+__pycache__/
+
+Assignment2/**/__pycache__/
+
+Assignment2/data/
+
+Assignment3/data/
+
+Assignment3/*.pdf
+Assignment3/results/
+
+Assignment3/__pycache__/
